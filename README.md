@@ -11,7 +11,6 @@
 [Demo](#demo) • [Fitur](#fitur) • [Instalasi](#instalasi) • [Penggunaan](#penggunaan) 
 
 </div>
----
 
 ## 🎯 Tentang Proyek
 
