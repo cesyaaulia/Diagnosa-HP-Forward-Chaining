@@ -194,10 +194,10 @@ Untuk keamanan yang lebih baik, gunakan environment variables untuk konfigurasi 
 <div align="center">
 
 ### 🌙 Dark Theme
-![Dark Theme Preview] <img width="3580" height="3268" alt="Image" src="https://github.com/user-attachments/assets/011aff42-6cf0-4658-b7ff-43dda0fabe86" />
+<img width="3580" height="3268" alt="Image" src="https://github.com/user-attachments/assets/011aff42-6cf0-4658-b7ff-43dda0fabe86" />
 
 ### ☀️ Light Theme
-![Light Theme Preview] <img width="3580" height="3268" alt="Image" src="https://github.com/user-attachments/assets/b7196e99-c100-4c03-bd81-2a8abea23f66" />
+<img width="3580" height="3268" alt="Image" src="https://github.com/user-attachments/assets/b7196e99-c100-4c03-bd81-2a8abea23f66" />
 
 </div>
 
